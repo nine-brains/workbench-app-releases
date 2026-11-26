@@ -1,0 +1,10 @@
+{
+  "version": "0.1.3",
+  "pub_date": "2026-11-26T14:45:52.931Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZExBckpWY3JoSVpyZGEzaGN5UiswSWlzVHoxalJBcHhyT1FYeHZkYlB6c1NLbVBTN2xsV1NISVQwamtwa0ZTK2tkbHVlbHpTL04zdXdhTCtuZitkZzh6Qk9kNmlOSmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA0MzUyCWZpbGU6V29ya2JlbmNoXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwowREo2T3lBNDdXL1lsYjJDSnA2R2cwSkpiOWI2YjBYSUtWNElqUWhqNE8wZjlvR2dUdEFKZTNQUkJkanZEVm44NmJ5ZHVPdFdVYmh1M2s1WW1Ud1BEdz09Cg==",
+      "url": "https://github.com/nine-brains/workbench-app-releases/raw/main/Workbench-setup.exe"
+    }
+  }
+}
